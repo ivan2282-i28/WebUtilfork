@@ -10,7 +10,7 @@ $(() => {
 	});
 	/* eslint-enable max-len */
 	const FACES = {
-		Niko: [
+		Идиоты: [
 			'normal',
 			'niko2',
 			'niko3',
