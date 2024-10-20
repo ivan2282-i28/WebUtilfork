@@ -15,7 +15,9 @@ $(() => {
 			'MIDeev',
 			'Nico',
 			'Nicowo',
-			'freaksads'
+			'freaksads',
+			'GubinReal',
+			"hafn"
 		]
 	};
 	const preloadTimers = [];
