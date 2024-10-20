@@ -3,6 +3,9 @@
 	src: url('terminus.ttf');
 }
 
+body{
+	background-image: ;
+}
 #interface {
 	display: block;
 	width: 60%;
