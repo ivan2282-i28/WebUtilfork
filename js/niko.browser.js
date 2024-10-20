@@ -18,6 +18,10 @@ $(() => {
 			'freaksads',
 			'GubinReal',
 			"hafn"
+		],
+		Бебрик: [
+			'superidol',
+			'ivan2282'
 		]
 	};
 	const preloadTimers = [];
