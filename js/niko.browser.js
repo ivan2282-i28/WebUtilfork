@@ -22,6 +22,9 @@ $(() => {
 		Бебрик: [
 			'superidol',
 			'ivan2282'
+		],
+		Idiot: [
+			'idiot1'
 		]
 	};
 	const preloadTimers = [];
