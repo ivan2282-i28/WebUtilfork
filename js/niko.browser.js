@@ -21,7 +21,8 @@ $(() => {
 		],
 		Бебрик: [
 			'superidol',
-			'ivan2282'
+			'ivan2282',
+			'lexapindittik'
 		],
 		Idiot: [
 			'idiot1'
